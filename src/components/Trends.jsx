@@ -1,4 +1,4 @@
-import Trend1 from "../assets/Trend1.webp"
+import trend1 from "../assets/trend1.webp"
 import Trend2 from "../assets/Trend2.webp"
 import Trend3 from "../assets/Trend3.webp"
 import Trend4 from "../assets/Trend4.webp"
@@ -11,7 +11,7 @@ function Trends() {
     const movies = [        
         {
            id: 1,
-           url: Trend1, 
+           url: trend1, 
         },
         {
            id: 2,
