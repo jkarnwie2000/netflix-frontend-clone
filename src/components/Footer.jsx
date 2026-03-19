@@ -8,33 +8,35 @@ function Footer() {
             Questions? Contact us.
         </div>
         <div className="flex justify-between">
-            <div className="w-50 mb-11 list-none">
-            <li>FAQ</li>
-            <li>Help</li>
-            <li>Center</li>
-            <li>Account</li>
-            <li>Media</li>
+            <div className="w-50 mb-11 list-none">            
+            <li className="mb-2">FAQ</li>
+            <li className="mb-2" >Media Center</li>
+            <li className="mb-2">Redeem Gift Cards</li>
+            <li className="mb-2">Privacy</li>
+            <li>Speed Test</li>            
+            <li className="mt-8">Ad Choices</li>
             </div>               
             <div className="w-50 list-none">
-            <li>FAQ</li>
-            <li>Help</li>
-            <li>Center</li>
-            <li>Account</li>
-            <li>Media</li>
+            <li className="mb-2">Help Center</li>
+            <li className="mb-2">Investor Relations</li>
+            <li className="mb-2">Buy Gift Cards</li>
+            <li className="mb-2">Cookie Preferences</li>
+            <li className="mb-2">Legal Notices</li>
             </div>               
             <div className="w-50 list-none">
-            <li>FAQ</li>
-            <li>Help</li>
-            <li>Center</li>
-            <li>Account</li>
-            <li>Media</li>
+            <li className="mb-2">Account</li>
+            <li className="mb-2">Jobs</li>
+            <li className="mb-2">Ways to Watch</li>
+            <li className="mb-2">Corporate Information</li>
+            <li className="mb-2">Only on Netflix</li>
             </div>               
             <div className="w-50 list-none">
-            <li>FAQ</li>
-            <li>Help</li>
-            <li>Center</li>
-            <li>Account</li>
-            <li>Media</li>
+            <li className="mb-2">Netflix House</li>
+            <li className="mb-2">Netflix Shop</li>
+            <li className="mb-2">Terms of Use</li>
+            <li className="mb-2">Contact Us</li>
+            <li className="mb-2">Do Not Sell or Share My Personal</li>
+            <li>Information</li>
             </div>               
         </div>
 
@@ -44,7 +46,7 @@ function Footer() {
         </select>
             
         <div className="mt-10">
-        <div>Netflix Norway.</div>
+        <div className="mb-1">Netflix Norway</div>
         <div className="text-[12px]">
             This page is protected by Google reCAPTCHA to ensure
             you are not a bot. <span className="text-blue-500 underline">Learn more</span>.

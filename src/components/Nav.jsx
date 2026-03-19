@@ -20,7 +20,7 @@ const Nav = ()=> {
                         <option className="text-black" value="French">French</option>
                     </select>
                 </div>
-            <button className="bg-red-500 font-bold px-5 py-1 rounded">Sign In</button>    
+            <button className="bg-red-600 font-bold px-5 py-2 rounded">Sign In</button>    
             </div> 
             </div>
             <div className="py-30 flex flex-col items-center">

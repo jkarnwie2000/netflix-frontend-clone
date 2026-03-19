@@ -3,7 +3,7 @@
 function Subscription() {
   return (
     <div className="flex flex-col items-center gap-5 py-10">
-    <div className="text-center">
+    <div className="text-center mt-10">
           Ready to watch? Enter your email to create or restart your membership.
       </div>
       <div className="flex items-center">
